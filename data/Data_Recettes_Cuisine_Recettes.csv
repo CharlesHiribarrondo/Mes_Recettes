@@ -1,0 +1,27 @@
+Numero,Nom_recette,Livre,Numero/Page,Recette_Companion,Vegetarien
+1,Velouté de courgettes,Moulinex_companion,19,Oui,Oui
+2,Velouté de potiron,Moulinex_companion,19,Oui,Oui
+3,Velouté aux champignons et poireaux,Moulinex_companion,67,Oui,Oui
+4,Soupe au pistou,Simplissime_vegetarien,122,Non,Oui
+5,Riz cantonnais,Recette_perso,0,Non,Non
+6,Riz et ratatouille,Recette_perso,0,Non,Oui
+7,Riz avec sauce soja noix de cajou et poivrons,Moulinex_companion,162,Oui,Oui
+8,Salade de lentilles,Recette_perso,0,Non,Oui
+9,Salades d'haricots blancs,Simplissime_vegetarien,44,Non,Oui
+10,Curry de patates douces,Simplissime_vegetarien,126,Non,Oui
+11,Curry d'oeufs,Simplissime_vegetarien,134,Non,Oui
+12,Pizza margharita maison,Recette_perso,0,Non,Oui
+13,Ravioles à la crème de chou-fleur,Simplissime_vegetarien,128,Non,Oui
+14,Riz et dahl de lentilles corail,Simplissime_vegetarien,124,Non,Oui
+15,Taboulé au melon,Simplissime_vegetarien,28,Non,Oui
+16,Crostini au potiron et beaufort,Simplissime_vegetarien,64,Non,Oui
+17,Crostini aux tomates et mozzarella,Simplissime_vegetarien,72,Non,Oui
+18,Quiche aux tomates cerises,Simplissime_vegetarien,86,Non,Oui
+19,Tarte de patates douces,Simplissime_vegetarien,116,Non,Oui
+20,Poêlée de cèpes et oeufs,Simplissime_vegetarien,136,Non,Oui
+21,Pates au citron basilic,Simplissime_vegetarien,154,Non,Oui
+22,Risotto aux coquillettes,Simplissime_vegetarien,158,Non,Oui
+23,Potimarrons farcis aux champignons,Simplissime_vegetarien,174,Non,Oui
+24,Poivrons farcis aux lentilles corail,Simplissime_vegetarien,180,Non,Oui
+25,Tomates farcies aux haricots blancs,Simplissime_vegetarien,200,Non,Oui
+26,Pâté de pomme de terre forestier,Simplissime_vegetarien,202,Non,Oui

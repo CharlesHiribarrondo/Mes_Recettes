@@ -1,0 +1,112 @@
+Numero,Nom_recette,Ingredient,Quantite,Unite,Rayon_magasin
+1,Velouté de courgettes,Courgettes,4,u,Fruits et Légumes
+1,Velouté de courgettes,Kiri,4,u,Produits laitiers
+2,Velouté de potiron,Potiron,1,u,Fruits et Légumes
+2,Velouté de potiron,Kiri,4,u,Produits laitiers
+3,Velouté aux champignons et poireaux,Champignons de Paris,400,g,Fruits et Légumes
+3,Velouté aux champignons et poireaux,Oignon,1,u,Fruits et Légumes
+3,Velouté aux champignons et poireaux,Poireaux,1,u,Fruits et Légumes
+3,Velouté aux champignons et poireaux,Crème Fraiche,15,cl,Produits laitiers
+4,Soupe au pistou,Courgettes,2,u,Fruits et Légumes
+4,Soupe au pistou,Coquillettes,150,g,"Pâtes, Riz, Céréales"
+4,Soupe au pistou,Pesto,2,c. à soupe,"Pâtes, Riz, Céréales"
+4,Soupe au pistou,Tomates,4,u,Fruits et Légumes
+5,Riz cantonnais,Riz,320,g,"Pâtes, Riz, Céréales"
+5,Riz cantonnais,Oeufs,6,u,Oeufs
+5,Riz cantonnais,Jambon,2,tranches,Viandes et charcuterie
+5,Riz cantonnais,Petits pois,120,g,Conserves
+5,Riz cantonnais,Sauce soja,4,c. à soupe,Produits du monde
+6,Riz et ratatouille,Riz,320,g,"Pâtes, Riz, Céréales"
+6,Riz et ratatouille,Ratatouille,320,g,Conserves
+6,Riz et ratatouille,Sauce tomate,300,ml,"Pâtes, Riz, Céréales"
+7,Riz avec sauce soja noix de cajou et poivrons,Riz,320,g,"Pâtes, Riz, Céréales"
+7,Riz avec sauce soja noix de cajou et poivrons,Noix de cajou,100,g,Fruits secs
+7,Riz avec sauce soja noix de cajou et poivrons,Gousses d'ail,2,u,Fruits et Légumes
+7,Riz avec sauce soja noix de cajou et poivrons,Oignon,1,u,Fruits et Légumes
+7,Riz avec sauce soja noix de cajou et poivrons,Poivrons,300,g,Fruits et Légumes
+7,Riz avec sauce soja noix de cajou et poivrons,Huile d'olive,5,cl,"Huiles, vinaigres, sauces"
+7,Riz avec sauce soja noix de cajou et poivrons,Sauce soja,5,cl,Produits du monde
+7,Riz avec sauce soja noix de cajou et poivrons,Citron,1,u,Fruits et Légumes
+8,Salade de lentilles,Lentilles cuites,400,g,Conserves
+8,Salade de lentilles,Haricots blancs cuits,200,g,Conserves
+8,Salade de lentilles,Pesto,2,c. à soupe,"Pâtes, Riz, Céréales"
+8,Salade de lentilles,Tomates cerises,250,g,Fruits et Légumes
+8,Salade de lentilles,Basilic,10,feuilles,Fruits et Légumes
+9,Salades d'haricots blancs,Haricots blancs cuits,600,g,Conserves
+9,Salades d'haricots blancs,Oignon rouge,1,u,Fruits et Légumes
+9,Salades d'haricots blancs,Huile d'olive,6,cl,"Huiles, vinaigres, sauces"
+9,Salades d'haricots blancs,Tomates cerises,250,g,Fruits et Légumes
+9,Salades d'haricots blancs,Crème Fraiche,9,cl,Produits laitiers
+9,Salades d'haricots blancs,Basilic,10,feuilles,Fruits et Légumes
+10,Curry de patates douces,Riz,320,g,"Pâtes, Riz, Céréales"
+10,Curry de patates douces,Patate douce,1,u,Fruits et Légumes
+10,Curry de patates douces,Lait de coco,50,cl,Produits du monde
+10,Curry de patates douces,Epinards surgelés,300,g,Surgelés
+10,Curry de patates douces,Curry,2,c. à soupe,Epices
+11,Curry d'oeufs,Riz,320,g,"Pâtes, Riz, Céréales"
+11,Curry d'oeufs,Oeufs,4,u,Oeufs
+11,Curry d'oeufs,Lait de coco,50,cl,Produits du monde
+11,Curry d'oeufs,Epinards surgelés,150,g,Surgelés
+11,Curry d'oeufs,Curry,2,c. à soupe,Epices
+11,Curry d'oeufs,Tomates cerises,250,g,Fruits et Légumes
+12,Pizza margharita maison,Pate à pizza,1,u,Produits frais
+12,Pizza margharita maison,Sauce tomate,200,ml,"Pâtes, Riz, Céréales"
+12,Pizza margharita maison,Mozarella,1,u,Produits laitiers
+12,Pizza margharita maison,Basilic,10,feuilles,Fruits et Légumes
+12,Pizza margharita maison,Olives,4,u,Fruits et Légumes
+13,Ravioles à la crème de chou-fleur,Ravioles,240,g,Produits frais
+13,Ravioles à la crème de chou-fleur,Chou-fleur surgelé,300,g,Surgelés
+13,Ravioles à la crème de chou-fleur,Huile d'olive,3,cl,"Huiles, vinaigres, sauces"
+13,Ravioles à la crème de chou-fleur,Lait de coco,50,cl,Produits du monde
+14,Riz et dahl de lentilles corail,Riz,320,g,"Pâtes, Riz, Céréales"
+14,Riz et dahl de lentilles corail,Lentilles corail,150,g,"Pâtes, Riz, Céréales"
+14,Riz et dahl de lentilles corail,Tomates,2,u,Fruits et Légumes
+14,Riz et dahl de lentilles corail,Potiron,400,g,Fruits et Légumes
+14,Riz et dahl de lentilles corail,Lait de coco,40,cl,Produits du monde
+15,Taboulé au melon,Melon,2,u,Fruits et Légumes
+15,Taboulé au melon,Semoule,120,g,"Pâtes, Riz, Céréales"
+15,Taboulé au melon,Tomates cerises,250,g,Fruits et Légumes
+15,Taboulé au melon,Huile d'olive,6,cl,"Huiles, vinaigres, sauces"
+15,Taboulé au melon,Menthe,10,feuilles,Fruits et Légumes
+16,Crostini au potiron et beaufort,Pain aux noix,4,tranches,Pain
+16,Crostini au potiron et beaufort,Potiron,250,g,Fruits et Légumes
+16,Crostini au potiron et beaufort,Beaufort,150,g,Produits laitiers
+16,Crostini au potiron et beaufort,Huile de cuisson,3,cl,"Huiles, vinaigres, sauces"
+17,Crostini aux tomates et mozzarella,Pain aux céréales,4,tranches,Pain
+17,Crostini aux tomates et mozzarella,Tomates,2,u,Fruits et Légumes
+17,Crostini aux tomates et mozzarella,Mozarella,2,u,Produits laitiers
+17,Crostini aux tomates et mozzarella,Basilic,10,feuilles,Fruits et Légumes
+18,Quiche aux tomates cerises,Pâte brisée,1,u,Produits frais
+18,Quiche aux tomates cerises,Tomates cerises,400,g,Fruits et Légumes
+18,Quiche aux tomates cerises,Boules mini mozarella,1,u,Produits laitiers
+18,Quiche aux tomates cerises,Oeufs,4,u,Oeufs
+19,Tarte de patates douces,Pâte feuilletée,1,u,Produits frais
+19,Tarte de patates douces,Patate douce,1,u,Fruits et Légumes
+19,Tarte de patates douces,Curry,1,c. à soupe,Epices
+19,Tarte de patates douces,Yaourt à la grecque,150,g,Produits laitiers
+20,Poêlée de cèpes et oeufs,Cèpes,400,g,Fruits et Légumes
+20,Poêlée de cèpes et oeufs,Oeufs,4,u,Oeufs
+21,Pates au citron basilic,Pâtes,320,g,"Pâtes, Riz, Céréales"
+21,Pates au citron basilic,Citrons confits,2,u,Conserves
+21,Pates au citron basilic,Basilic,10,feuilles,Fruits et Légumes
+21,Pates au citron basilic,Huile d'olive,6,cl,"Huiles, vinaigres, sauces"
+21,Pates au citron basilic,Parmesan,60,g,Produits laitiers
+22,Risotto aux coquillettes,Coquillettes,200,g,"Pâtes, Riz, Céréales"
+22,Risotto aux coquillettes,Petits pois,200,g,Conserves
+22,Risotto aux coquillettes,Fromage frais ail et fines herbes,150,g,Produits laitiers
+22,Risotto aux coquillettes,Huile d'olive,6,cl,"Huiles, vinaigres, sauces"
+23,Potimarrons farcis aux champignons,Potimarron,2,u,Fruits et Légumes
+23,Potimarrons farcis aux champignons,Champignons mélangés surgelés,350,g,Surgelés
+23,Potimarrons farcis aux champignons,Parmesan,60,g,Produits laitiers
+24,Poivrons farcis aux lentilles corail,Poivrons,4,u,Fruits et Légumes
+24,Poivrons farcis aux lentilles corail,Lentilles corail,200,g,"Pâtes, Riz, Céréales"
+24,Poivrons farcis aux lentilles corail,Lait de coco,80,cl,Produits du monde
+24,Poivrons farcis aux lentilles corail,Coriandre,10,feuilles,Fruits et Légumes
+25,Tomates farcies aux haricots blancs,Tomates,4,u,Fruits et Légumes
+25,Tomates farcies aux haricots blancs,Haricots blancs cuits à la tomate,400,g,Conserves
+25,Tomates farcies aux haricots blancs,Basilic,10,feuilles,Fruits et Légumes
+25,Tomates farcies aux haricots blancs,Parmesan,60,g,Produits laitiers
+26,Pâté de pomme de terre forestier,Pommes de terre,600,g,Fruits et Légumes
+26,Pâté de pomme de terre forestier,Champignons mélangés surgelés,150,g,Surgelés
+26,Pâté de pomme de terre forestier,Fromage râpé,100,g,Produits laitiers
+26,Pâté de pomme de terre forestier,Oeufs,3,u,Oeufs
